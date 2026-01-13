@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MJZKASINATH
 - 👀 I’m interested in ...arithemetics
-- 🌱 I’m currently learning ...Higher secondary
-- 💞️ I’m looking to collaborate on ...student projects
-- 📫 How to reach me ...github only
+- 🌱 I’m currently learning ...B.Tech CSE Undergraduate
+- 💞️ I’m looking to collaborate on ...various projects
+- 📫 How to reach me ...github, linkedin..
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
